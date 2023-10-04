@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing add biometric and login actions user login should be success 1`] = `[Function]`;
